@@ -1,6 +1,6 @@
 
 # Paula's First CS 193 HW
 **My favorite things about CS 193 (so far)** 
-- thing 1
-- thing 2
-- thing 3 
+- Being in a class that will help me excel not only in my CS courses, but also my personal pprojects
+- Learning in a church is pretty cool
+- No final!!
